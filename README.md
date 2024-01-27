@@ -1,8 +1,7 @@
 # React + Vite
+Proyecto de React
+Mi proyecto consta de una tienda de Zapatillas, donde podes ver todos los productos, y cada categoria que en este caso estan separadas por marca.
+Tambien podes ver cada producto, su descripcion y precio, como tambien agregar el producto al carrito para realizar la compra.
+Tenes un formulario para contactarte con la tienda.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
