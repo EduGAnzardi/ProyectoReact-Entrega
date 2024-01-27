@@ -1,0 +1,181 @@
+[
+    {
+        "id": 1,
+        "titulo": "Avryn",
+        "descripcion": "Los detalles sutiles son los que hacen que estas zapatillas adidas se destaquen, desde las 3 Tiras gruesas perforadas hasta el exterior de malla en capas y el refuerzo de talón en microgamuza. Por dentro son igual de impresionantes, ya que combinan adidas BOOST y Bounce para una comodidad y amortiguación excepcionales.",
+        "categoria": "Adidas",
+        "imagen": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/6ce96ced0517455980f2af9c00f1d381_9366/Zapatillas_Avryn_Negro_HP5970_01_standard.jpg",
+        "precio": 87.499,
+        "stock": 10
+    },
+    {
+        "id": 2,
+        "titulo": "Adi2000",
+        "descripcion": "Con la garantía de que dejarán una impresión duradera, estas zapatillas Adi2000 ofrecen el tipo de look nostálgico que nos encanta. El diseño se inspira en el clásico y divertido buzo de Navidad de la era del año 2000, con atrevidos colores y una mediasuela que alumbra en la oscuridad para crear una declaración de estilo inolvidable.",
+        "categoria": "Adidas",
+        "imagen": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/08bd1f5eec6847a3b1e2af4000e59516_9366/Zapatillas_Adi2000_Rojo_H03488_01_standard.jpg",
+        "precio": 189.999,
+        "stock": 10
+    },
+    {
+        "id": 3,
+        "titulo": "Nike Court Vision Low Next Nature",
+        "descripcion": "Te presentamos el Nike Court Vision Low. Un clásico rediseñado con al menos un 20% de materiales reciclados por peso, su parte superior nítida y los revestimientos cosidos mantienen el alma del estilo original. El cuello del tobillo de corte low y acolchado brinda elegancia y comodidad.",
+        "categoria": "Nike",
+        "imagen": "https://www.dexter.com.ar/on/demandware.static/-/Sites-365-dabra-catalog/default/dw1a055db1/products/NI_DH3158-101/NI_DH3158-101-1.JPG",
+        "precio": 104.999,
+        "stock": 10
+    },
+    {
+        "id": 4,
+        "titulo": "X-Ray Speed",
+        "descripcion": "Los fanáticos de las X-Ray tienen suerte, ya que esta temporada expandimos la línea con un modelo nuevo. Las X-Ray Speed son livianas y ágiles, para que tus pies sean rápidos también. Tienen un empeine confeccionado con una mezcla de materiales que incorpora combinaciones de colores con estilo y detalles vibrantes que se reflejan en la suela.",
+        "categoria": "Puma",
+        "imagen": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_706,h_706/global/386497/31/sv01/fnd/ARG",
+        "precio": 114.999,
+        "stock": 10
+    },
+    {
+        "id": 5,
+        "titulo": "ACD mid",
+        "descripcion": "La zapatilla ACD Mid es la reversión de media caña del clásico modelo Arcade Low, que lleva la esencia de las zapatillas de basket de calle a tu día a día. La capellada (parte superior) está hecha de microfibra y gamuza con materiales superpuestos.",
+        "categoria": "Fila",
+        "imagen": "https://filaar.vtexassets.com/arquivos/ids/6837863-500-500/Name_299615.jpg?v=638192497590930000",
+        "precio": 123.490,
+        "stock": 10
+    },
+    {
+        "id": 6,
+        "titulo": "MB.03 Dexter's Laboratory",
+        "descripcion": "LaMelo Ball se une a los famosos dibujos animados de “Dexter's Laboratory” en esta loca edición de sus zapatillas de basket MB.03. Esta versión de las MB.03 incluye todas las tecnologías tan características de las versiones anteriores, como la entresuela de espuma receptiva e inyectada con nitrógeno y la suela con agarre para movimientos en todas las direcciones del campo.",
+        "categoria": "Puma",
+        "imagen": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_706,h_706/global/379330/01/sv01/fnd/ARG",
+        "precio": 249.999,
+        "stock": 10
+    },
+    {
+        "id": 7,
+        "titulo": "Arcade low",
+        "descripcion": "La zapatilla Fila Arcade Low rescata la esencia de la ropa de calle y ofrece mucho más estilo a la vida cotidiana. Desarrollado a partir del original del Museo da Fila de Biella, tiene piel en material sintético para una fácil limpieza y una mayor resistencia a la fricción. ",
+        "imagen": "https://filaar.vtexassets.com/arquivos/ids/6839204-500-500/Name_299778.jpg?v=638192499049400000",
+        "precio": 95.990,
+        "stock": 10
+    },
+    {
+        "id": 8,
+        "titulo": "Nike Dunk Low Retro",
+        "descripcion": "El ícono del básquetbol, creado para la cancha y adaptado al estilo urbano, vuelve con detalles clásicos y un estilo de básquetbol retro. Con un diseño que lleva el estilo de los 80, la zona del tobillo acolchada de corte low te permite ir cómodamente a cualquier parte.",
+        "categoria": "Nike",
+        "imagen": "https://www.moov.com.ar/on/demandware.static/-/Sites-365-dabra-catalog/default/dw47f6655d/products/NIDZ5070-010/NIDZ5070-010-1.JPG",
+        "precio": 159.999,
+        "stock": 10
+    },
+    {
+        "id": 9,
+        "titulo": "Air Jordan XXXVIII Fundamental",
+        "descripcion": "Negro, blanco y rojo. ¿Qué tiene esta combinación de colores que impacta tan fuerte? Quizá esté en nuestro ADN, son los primeros tres colores que los bebés pueden ver, después de todo. Quizá sea la conexión icónica con la herencia de la marca Jordan, tan parecida a una línea de sangre como puede serlo una combinación de colores. O quizá simplemente se vean muy bien juntos.",
+        "categoria": "Nike",
+        "imagen": "https://www.moov.com.ar/on/demandware.static/-/Sites-365-dabra-catalog/default/dwdb857332/products/NIDZ3356-106/NIDZ3356-106-1.JPG",
+        "precio": 299.999,
+        "stock": 10
+    },
+    {
+        "id": 10,
+        "titulo": "Plexus Sand",
+        "descripcion": "Las Plexus, inspiradas en la evolución del calzado, desafían el aspecto y las sensaciones de las zapatillas convencionales. Combinan una silueta deportiva con un aspecto rompedor al convertir características prácticas, como los cordones, en elementos llamativos de diseño. Esta edición se inspira en el desierto y ha sido actualizada con nuestra suela de alto rendimiento PUMAGRIP-ATR para que puedas elegir cualquier camino.",
+        "categoria": "Puma",
+        "imagen": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_706,h_706/global/393157/01/sv01/fnd/ARG",
+        "precio": 218.999,
+        "stock": 10
+    },
+    {
+        "id": 11,
+        "titulo": "Pleasures velophasis overdye",
+        "descripcion": "La primera colección PUMA x PLEASURES se inspira en la estética de los años 2000 y le hace un guiño a nuestros orígenes por medio de motivos gráficos que se reproducen en toda la colección. El diseño Velophasis es un híbrido de la década del 2000 que se basa en el legado de nuestra línea de running.",
+        "categoria": "Puma",
+        "imagen": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_706,h_706/global/391696/01/sv01/fnd/ARG",
+        "precio": 214.999,
+        "stock": 10
+    },
+    {
+        "id": 12,
+        "titulo": "Campus00s",
+        "descripcion": "Las proporciones son cada vez mayores. La gente se está volviendo más audaz. Inspiradas en la actualidad, estas zapatillas reinventan el icónico estilo de las Campus 80 de adidas para crear un look moderno que se adapta al estilo y la cultura de hoy. Actualizamos las proporciones y la paleta de colores del exterior de cuero.",
+        "categoria": "Adidas",
+        "imagen": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/e44d90786ba543658814afaf0071b44e_9366/Zapatillas_Campus_00s_Violeta_HQ8710_01_standard.jpg",
+        "precio": 179.999,
+        "stock": 10
+    },
+    {
+        "id": 13,
+        "titulo": "AdiStar",
+        "descripcion": "Zapatilla para carreras de fondo inspiradas en la idea del movimiento perpetuo y probadas en más de 4,500 km. Adistar combina una plataforma de espuma REPETITOR suave y ligera con REPETITOR +, una espuma más firme, para crear una mediasuela de doble densidad. La mediasuela de EVA reciclada 15% más firme en el talón protege y ayuda a estabilizar cualquier impacto en el talón",
+        "categoria": "Adidas",
+        "imagen": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/491d160f9b9f4e85abe2ae2a012df3fb_9366/Zapatillas_Adistar_Negro_GY1687_01_standard.jpg",
+        "precio":  174.999,
+        "stock": 10
+    },
+    {
+        "id": 14,
+        "titulo": "Racer flexor",
+        "descripcion": "Combinando lo deportivo y lo informal en un solo modelo, la zapatilla Fila Racer Flexor sigue las líneas orgánicas de la familia Racer, que aportan la sensación de velocidad y remiten a las fibras musculares. Elegante y moderna, es adecuada para el uso diario y el entrenamiento.",
+        "categoria": "Fila",
+        "imagen": "https://filaar.vtexassets.com/arquivos/ids/6863246-500-500/fila_F01R00097_589_01.jpg?v=638385159503300000",
+        "precio": 84.499,
+        "stock": 10
+    },
+    {
+        "id": 15,
+        "titulo": "Exotek NITRO",
+        "descripcion": "La ciencia y la ropa deportiva se unen en las Exotek NITRO. Fabricadas con la ingeniería precisa de nuestra línea de running de alto performance, estas zapatillas exploran la funcionalidad y el futurismo a través de una estética puramente tecnológica. Están equipadas con un empeine de malla y gamuza, y cuentan con una suela exterior estriada y moteada con puntos de tracción de goma.",
+        "categoria": "Puma",
+        "imagen": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_706,h_706/global/392440/03/sv01/fnd/ARG",
+        "precio": 184.999,
+        "stock": 10
+    },
+    {
+        "id": 16,
+        "titulo": "Response 3.0",
+        "descripcion": "Corré contra el reloj con estas zapatillas de running adidas. Traen un exterior de malla transpirable y un cuello acolchado Geofit que sujeta el tobillo. Bounce en el talón y Bounce+ a lo largo del pie aumentan la sensación de amortiguación para una mayor velocidad y comodidad",
+        "categoria": "Adidas",
+        "imagen": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/2fcb12007907475aa33cf7aa313d8b4e_9366/Zapatillas_Response_Super_3.0_Blanco_IG0338_01_standard.jpg",
+        "precio": 125.999,
+        "stock": 10
+    },
+    {
+        "id": 17,
+        "titulo": "RHUIGI Clyde",
+        "descripcion": "Por medio de la pasión por el rap del diseñador de ropa urbana Rhuigi, la línea PUMA x RHUIGI explora los frenéticos comienzos del hip-hop en la década de 1970 y cómo PUMA contribuyó a modelar el estilo que se lanzaría desde Nueva york al mundo entero. Esta versión de las Clyde celebra esa época legendaria con un diseño de media caña, un empeine de cuero clásico y la famosa estética de Rhuigi.",
+        "categoria": "Puma",
+        "imagen": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_706,h_706/global/391335/01/sv01/fnd/ARG",
+        "precio": 179.999,
+        "stock": 10
+    },
+    {
+        "id": 18,
+        "titulo": "Nike Air Force 1 07 LX NBHD",
+        "descripcion": "Piel abatanada. Lona premium. Colores fáciles de combinar. Este modelo AF1 ofrece un estilo discreto y agrega el toque perfecto a tu look.",
+        "categoria": "Nike",
+        "imagen": "https://www.moov.com.ar/on/demandware.static/-/Sites-365-dabra-catalog/default/dw1ad7f32c/products/NIDV7183-100/NIDV7183-100-1.JPG",
+        "precio": 224.999,
+        "stock": 10
+    },
+    {
+        "id": 19,
+        "titulo": "Racer master",
+        "descripcion": "Con unas líneas inspiradas en el modelo Racer-T2, Fila Racer Master aporta la tecnología necesaria para potenciar tu mejor rendimiento en las carreras diarias, competiciones y entrenamientos de running. Recomendado para atletas principiantes e intermedios que buscan mayor respiración del pie y máxima comodidad. ",
+        "categoria": "Fila",
+        "imagen": "https://filaar.vtexassets.com/arquivos/ids/6856594-500-500/fila_F01R00091_5749_01.jpg?v=638334184675530000",
+        "precio": 77.999,
+        "stock": 10
+    },
+    {
+        "id": 20,
+        "titulo": "Renno n generation",
+        "descripcion": "Con inspiración retro y un diseño moderno, la zapatilla Renno N Generation apor ta colores llamativos y un estilo auténtico al look urbano. Su upper (la parte superior de la zapatilla) está construido con piezas superpuestas y mezcla diferentes materiales, como malla rips top y cuero.",
+        "categoria": "Fila",
+        "imagen": "https://filaar.vtexassets.com/arquivos/ids/6849347-500-500/fila_1RM01970_856_01.jpg?v=638259113952970000",
+        "precio": 127.999,
+        "stock": 10
+    }
+]
